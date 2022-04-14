@@ -11,14 +11,14 @@ export default function Pages(){
                     <span className="upper">get an invite</span>
                 </div>
                 <div className="image1-section">
-                     <img src="../src/assets/banner1.jpeg" alt="man standing at a beautiful location"/>
+                     <img src="../assets/banner1.jpeg" alt="man standing at a beautiful location"/>
                 </div>
                 
             </div>
 
             <div className="flex2">
                 <div className="image2-section">
-                     <img src="../src/assets/banner2.jpeg" alt="workspace"/>
+                     <img src="../assets/banner2.jpeg" alt="workspace"/>
                 </div>
                 <div className="second-section">
                     <h1 className="upper">beautiful<br /> stories<br /> everytime</h1>
@@ -36,7 +36,7 @@ export default function Pages(){
                     <span className="upper">view the stories</span>
                 </div>
                 <div className="image3-section">
-                     <img src="../src/assets/banner3.jpeg" alt="director holding a camera"/>
+                     <img src="../assets/banner3.jpeg" alt="director holding a camera"/>
                 </div>
                 
             </div>

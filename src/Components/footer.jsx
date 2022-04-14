@@ -4,7 +4,7 @@ export default function Footer(){
     return(
         <footer>
             <div className="footer-class">
-                <img src="../src/assets/logo-white.svg" alt="logo of the app" />
+                <img src="../assets/logo-white.svg" alt="logo of the app" />
                 <div className="footer-logo-section">
                         <p>home</p>
                         <p>stories</p>
