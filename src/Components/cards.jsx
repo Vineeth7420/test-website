@@ -3,7 +3,7 @@ import React from "react";
 export default function Cards(props){
     return(
         <div className="card">
-        <img src={`../assets/${props.img}`} className="card-image"/>
+        <img src={`./assets/${props.img}`} className="card-image"/>
         <div className="card-stats">
             <div>
                 <h3>{props.header}</h3>
