@@ -11,7 +11,7 @@ export default function Pages(){
                     <span className="upper">get an invite</span>
                 </div>
                 <div className="image1-section">
-                     <img src="../src/assets/banner1.jpeg" alt="man standing at a beautiful location"/>
+                     <img src="../src/assets/banner1.png" alt="man standing at a beautiful location"/>
                 </div>
                 
             </div>
