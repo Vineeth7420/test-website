@@ -4,7 +4,7 @@ export default function Navbar(){
     return(
         <nav>
             <div>
-                <img src="./assets/logo.svg" alt="logo of the app" />
+                <img src="../src/assets/logo.svg" alt="logo of the app" />
             </div>
             <div className='nav-upper'>
             <ul>
